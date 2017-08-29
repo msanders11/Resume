@@ -15,8 +15,10 @@ div#header{
 body{
     background-color:#e1e1e1;
     font-size: 1em;
+    font-family: sans-serif;
     padding: 75px;
-    border: 2px solid black;
+    padding-top: 50px;
+    border: 5px solid black;
 }
 
 #header {
@@ -47,6 +49,10 @@ ul#acquiredskills{
 }
 
 ul#duties{
+    list-style-type: none;
+}
+
+ul#sales{
     list-style-type: none;
 }
 

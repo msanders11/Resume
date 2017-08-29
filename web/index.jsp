@@ -19,6 +19,8 @@
             <p>s64w31333 Valley Lane Mukwonago WI, 53149<br>
                 (262)-470-8343<br>
                 msanders11@my.wctc.edu</p>
+
+            <h2>Junior Developer</h2>
         </div>
         <b><h2>Summary</h2></b>
         <hr>
@@ -36,7 +38,7 @@
         <div id="education">
             <b><h2>Education</h2></b>
             <hr>
-            <b>Waukesha County Technical College</b><br>
+            <b><h4>Waukesha County Technical College</h4></b>
             Program: Web and Software Development<br>
             Expected graduation: Fall 2017
             <b><p>Related Courses</p></b>
@@ -49,7 +51,7 @@
                 <li>Mobile iOS Development</li>
                 <li>Information Systems Design</li>
                 <li>Database Concepts</li>
-                <li>Distributed Java(In progress)</li>
+                <li>Distributed Java (In progress)</li>
             </ul>
         </div>
         <div>
@@ -64,6 +66,11 @@
                 <li>Swift</li>
                 <li>MySQL</li>
             </ul>
+        </div>
+        <div>
+            <b><h4>University of Wisconsin - Waukesha</h4></b>
+            Area of Study: Finance<br>
+            Credits completed: 70
         </div>
         <br>
         <div>
