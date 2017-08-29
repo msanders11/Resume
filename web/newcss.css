@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2017, 4:16:21 PM
+    Author     : Mike
+*/
+
+div#header{
+    background-color:#e1e1e1;
+}
+
+body{
+    background-color:#e1e1e1;
+    font-size: 1em;
+    padding: 75px;
+    border: 2px solid black;
+}
+
+#header {
+       
+    text-align: center;
+}
+
+ul#course{
+   columns: 2;
+  -webkit-columns: 2;
+  -webkit-column-gap: 20px;
+  list-style-type: none;
+}
+
+ul#languages {
+  columns: 2;
+  -webkit-columns: 2;
+  -webkit-column-gap: 20px;
+  list-style-type: none;
+}
+
+ul#skills{
+    list-style-type: none;
+}
+
+ul#acquiredskills{
+    list-style-type: none;
+}
+
+ul#duties{
+    list-style-type: none;
+}
+
+li:before {
+  content: "• ";
+}
