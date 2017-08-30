@@ -8,9 +8,6 @@ and open the template in the editor.
     Author     : Mike
 */
 
-div#header{
-    background-color:#e1e1e1;
-}
 
 body{
     background-color:#e1e1e1;
@@ -36,7 +33,7 @@ ul#course{
 ul#languages {
   columns: 2;
   -webkit-columns: 2;
-  -webkit-column-gap: 20px;
+  -webkit-column-gap: 40px;
   list-style-type: none;
 }
 

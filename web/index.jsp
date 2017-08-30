@@ -70,7 +70,7 @@
         <div>
             <b><h4>University of Wisconsin - Waukesha</h4></b>
             Area of Study: Finance<br>
-            Credits completed: 70
+            Credits completed: 70            
         </div>
         <br>
         <div>

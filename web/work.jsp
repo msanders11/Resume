@@ -36,8 +36,6 @@
         <b><p>Meat Clerk: June 2010 - June 2013</p></b>
         
         <b><p>Cashier: August 2008 - June 2013</p></b>
-
-
         <div>
             <a href="index.jsp">Back to Resume</a>
         </div>
